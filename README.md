@@ -4,23 +4,17 @@
   </a>
 </p>
 
-<h2 align="center">👨‍💻 About me</h2>
+# About me
 
-<p align="center">
-  Hello there! I'm just trying to solve problems. 💡<br><br>
-  As a CS undergrad at IFRJ, I'm passionate about backend engineering and system architecture. I love diving deep into documentation and figuring out how things work behind the scenes.
-</p>
+Hi, I'm Bernardo!
 
-<p align="center">
-  🎓 <strong>Education:</strong> Computer Science @ IFRJ (Pinheiral Campus)<br>
-  💻 <strong>Core Focus:</strong> Building APIs and backend systems with C#, ASP.NET Core, and Entity Framework.<br>
-  🛤️ <strong>My Journey:</strong> Started with Python/Django, now fully immersed in the .NET world.<br>
-  🎯 <strong>Current Goal:</strong> Landing my first Backend Developer role to help build scalable products.
-</p>
+I’m a Computer Science student at IFRJ who views code not just as syntax, but as a tool to solve real-world problems. My development journey kicked off with Python and Django, which gave me a solid foundation in web mechanics. However, driven by curiosity, I recently found my sweet spot in the .NET ecosystem.
+
+Nowadays, I spend most of my time building backend architectures with C# and ASP.NET Core. I value clean code, versatility, and understanding how things work under the hood. I'm currently looking for my first Backend Developer role where I can turn logic into scalable solutions.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+# Tech Stack & Tools
 
 <h3 align="center">Core Backend</h3>
 <p align="center">
@@ -39,7 +33,7 @@
 
 ---
 
-<h2 align="center">📫 Connect with me</h2>
+# Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bernardo-fernando1/" target="_blank">

@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 👨‍💻 About me
+#  About me
 
 At the end of the day, programming is about trying to solve problems—and that's exactly what I love to do.
 
@@ -12,7 +12,7 @@ I am currently an undergraduate Computer Science student at IFRJ (Pinheiral Camp
 
 I like to understand how things work under the hood and I am never afraid to learn new stacks. I am looking for my first opportunity as a Backend Developer in an environment where I can put this versatility into practice, keep growing, and help build great products.
 
-# 🛠️ Tech Stack & Tools
+# Tech Stack & Tools
 
 **Core Backend:**
 <br>

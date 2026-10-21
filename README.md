@@ -27,15 +27,11 @@ I like to understand how things work under the hood and I am never afraid to lea
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-# 📫 Connect with me
+#  Connect with me
 
 <a href="https://www.linkedin.com/in/bernardo-fernando1/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoF1/BernardoF1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BernardoF1/BernardoF1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BernardoF1/BernardoF1/output/github-contribution-grid-snake.svg">
-</picture>
+

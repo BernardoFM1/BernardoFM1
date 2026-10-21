@@ -6,11 +6,11 @@
 
 #  About me
 
-At the end of the day, programming is about trying to solve problems—and that's exactly what I love to do.
+Hi, I'm Bernardo! 
 
-I am currently an undergraduate Computer Science student at IFRJ (Pinheiral Campus) and a strong believer in hands-on learning. I started my web development journey by building projects with Python and Django. As I evolved, I decided to expand my toolbox, and today I focus my studies and projects on **C#** and **ASP.NET Core** for the backend, alongside JavaScript and TypeScript. 
+I’m a Computer Science student at IFRJ who views code not just as syntax, but as a tool to solve real-world problems. My development journey kicked off with Python and Django, which gave me a solid foundation in web mechanics. However, driven by curiosity, I recently found my sweet spot in the .NET ecosystem.
 
-I like to understand how things work under the hood and I am never afraid to learn new stacks. I am looking for my first opportunity as a Backend Developer in an environment where I can put this versatility into practice, keep growing, and help build great products.
+Nowadays, I spend most of my time building backend architectures with C# and ASP.NET Core. I value clean code, versatility, and understanding how things work under the hood. I'm currently looking for my first Backend Developer role where I can turn logic into scalable solutions.nder the hood and I am never afraid to learn new stacks. I am looking for my first opportunity as a Backend Developer in an environment where I can put this versatility into practice, keep growing, and help build great products.
 
 # Tech Stack & Tools
 
